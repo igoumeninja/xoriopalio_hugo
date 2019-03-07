@@ -5,18 +5,11 @@ tags = [ "πρόβατα", "λιάρα", "sheep-id-pass" ]
 topics = [ "" ]
 +++
 
-- [Προβατινολογικά Στοιχεία](#orgc2349fa)
-            - [Ημερολόγιο](#org578a33f)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/oZolLcPBgX">pic.twitter.com/oZolLcPBgX</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="https://twitter.com/xoriopalio/status/1046694537740070912?ref_src=twsrc%5Etfw">October 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<a id="orgc2349fa"></a>
-
-# Προβατινολογικά Στοιχεία
-
-<div class="HTML">
-<a href="<https://picasaweb.google.com/lh/photo/DoAPGCnDDtmC2WmqiygCyNMTjNZETYmyPJy0liipFm0?feat=embedwebsite>"><img src="![img](https://lh3.googleusercontent.com/-Eh8go9NJFMk/V3t6BLFm2zI/AAAAAAAADy4/VYKhIg7O0W4RGVLYtz18v9xrlbhz-6IdwCCo/s800/tumblr_n24y7iM1r31qzauf5o4_540.png)" height="757" width="501" /></a>
-
-</div>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/qbhgU59vWE">pic.twitter.com/qbhgU59vWE</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="https://twitter.com/xoriopalio/status/1046692233020403712?ref_src=twsrc%5Etfw">October 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 -   Φύλο: Θηλυκό
 -   Γένος: Γερμανίδα, απόγονος απο κριάρι του Βενιζέλου του παλιού
@@ -24,11 +17,6 @@ topics = [ "" ]
 -   Όνομα Πατρός: Λάγιος
 -   Ημερομηνία Γέννησης: 01 Μαίου 2012
 -   Τόπος γέννησης: μποστάνι
-
-
-<a id="org578a33f"></a>
-
-# Ημερολόγιο
 
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-01-23 Τρι] </span></span> Η Λιάρα ύστερα απο μια ελαφρυά αδιαθεσία, κόπηκε και μοιράστηκε σε ΠαππαΠέτρο, Μιχάλη-Γείτονα, ΠαυλοΜπέζα, ΛαμπροΜπέζα, Θεια-Λυτερία, ΓκυραΜπέζα και ΑρηΜπέζα.
 -   <span class="timestamp-wrapper"><span class="timestamp">[2017-10-10 Τρι] </span></span> Αντιβίωση (χρόνος αναμονής 3 μέρες)

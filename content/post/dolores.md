@@ -12,7 +12,7 @@ topics = [ "" ]
 
 **Ημερολόγιο**
 
--   <span class="timestamp-wrapper"><span class="timestamp">[2018-09-28 Παρ] </span></span> Γέννησε η Ντολόρες δυο αρνάκια. Πρώτο ένα αρσενικό δυνατό λιάρο και στη συνέχεια ένα θηλυκό το οποίο δεν πήρε το βυζί κατευθείαν.
+-   <span class="timestamp-wrapper"><span class="timestamp">[2018-09-28 Παρ] </span></span> Γέννησε η Ντολόρες δυο αρνάκια. Πρώτο ένα αρσενικό δυνατό λιάρο και στη συνέχεια ένα θηλυκό το οποίο δεν πήρε το βυζί κατευθείαν [link](https://twitter.com/xoriopalio/status/1045639843689254912)
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-05-02 Τετ] </span></span> Μαρκάλο!!!
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-09-04 Τρι] </span></span> Εμβολιασμός για εντεροτοξιναιμία
 -   <span class="timestamp-wrapper"><span class="timestamp">[2017-10-20 Παρ] </span></span> Αντιβίωση (χρόνος αναμονής 3 μέρες)

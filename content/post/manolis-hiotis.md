@@ -6,7 +6,7 @@ topics = [ "" ]
 +++
 
 <div class="HTML">
-<a href='https://postimages.org/' target='\_blank'><img src='https://s26.postimg.org/csvod25ih/manolis.png' border='0' alt='manolis'/></a>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="<https://t.co/BZPsfF5NAx>">pic.twitter.com/BZPsfF5NAx</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="<https://twitter.com/xoriopalio/status/1046691859463118848?ref_src=twsrc%5Etfw>">October 1, 2018</a></blockquote> <script async src="<https://platform.twitter.com/widgets.js>" charset="utf-8"></script>
 
 </div>
 

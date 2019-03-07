@@ -9,3 +9,9 @@ topics = [ "" ]
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Λές???
+
+{{< tweet 1057326530416832515 >}}
+
+Έτοιμα στις αρχεές του Νοέβρη. Ήθελαν περισσότερα πότισμα ;)
+
+{{< tweet 1061344254293876737 >}}

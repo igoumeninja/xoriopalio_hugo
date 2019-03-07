@@ -64,10 +64,26 @@ paginate = 50
 #  paypal = "username"
 #  telegram = "username"
 
+################################################
+[[menu.main]]
+    name = "Αναζήτηση"
+    url = "post/archive/"
+    weight = 1
+################################################
+[[menu.main]]
+    name = "Αρχείο"
+    url = "post/archive-list/"
+    weight = 2
+
+[[menu.main]]
+    name = "Λέξεις Κλειδιά"
+    url = "post/tagcloud/"
+    weight = 3
+
 [[menu.main]]
     identifier = "categories"
     name = "Κατηγορίες"
-    weight = 1
+    weight = 4
 
 [[menu.main]]
     parent = "categories"
@@ -80,12 +96,18 @@ paginate = 50
     name = "Κρασάκι"
     url = "post/vino-gyras"
     weight = 2
+
+[[menu.main]]
+    parent = "categories"
+    name = "Βιβλία"
+    url = "tags/βιβλία"
+    weight = 3
 ################################################
 [[menu.main]]
     identifier = "cooking"
     url = "/post/h-mageiriki-sto-xorio-palio/"
     name = "Μαγειρική"
-    weight = 1
+    weight = 5
 
 [[menu.main]]
     parent = "cooking"
@@ -159,20 +181,5 @@ paginate = 50
     url = "/tags/γλυκά/"
     weight = 12
 
-################################################
-[[menu.main]]
-    name = "Αναζήτηση"
-    url = "post/archive/"
-    weight = 3
-################################################
-[[menu.main]]
-    name = "Αρχείο"
-    url = "post/archive-list/"
-    weight = 4
-
-[[menu.main]]
-    name = "Λέξεις Κλειδιά"
-    url = "post/tagcloud/"
-    weight = 5
 
 
