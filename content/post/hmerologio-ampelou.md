@@ -8,6 +8,11 @@ topics = [ "" ]
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/cFR1Sxfjel">pic.twitter.com/cFR1Sxfjel</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="https://twitter.com/xoriopalio/status/995558077586968576?ref_src=twsrc%5Etfw">May 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+**ΕΣΟΔΕΙΑ 2019**
+
+-   <span class="timestamp-wrapper"><span class="timestamp">[2019-01-19 Σαβ] </span></span> **Κλάδεμα το Γενάρη**
+-   <span class="timestamp-wrapper"><span class="timestamp">[2019-04-16 Τρι] </span></span> Χορτοκοπτικό & Ράντισμα με βορδιγάλειο 0.4% (1 βάζο του μελιού βορδιγάλειο είναι 400 γρ) ύστερα απο πολλές βροχές.
+
 **ΕΣΟΔΕΙΑ 2018**
 
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-05-27 Κυρ] </span></span> **Μικρό μπιζέλι - Καρπόδεση**
