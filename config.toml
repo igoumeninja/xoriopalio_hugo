@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "xoriopalio-gitlab-io"
-#googleAnalytics = "XXX"
+googleAnalytics = "G-3MKMRR1K8K"
 paginate = 50
 
 [Params]
@@ -22,7 +22,8 @@ paginate = 50
   commit = false
   rss = true
   comments = true
-  RemovePathAccents = true          
+  RemovePathAccents = true
+  
 #  readingTime = true
   useHLJS = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
