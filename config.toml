@@ -23,6 +23,8 @@ paginate = 50
   rss = true
   comments = true
   RemovePathAccents = true
+
+  env    = "PUBLIC"   
   
 #  readingTime = true
   useHLJS = true
