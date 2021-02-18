@@ -12,7 +12,7 @@ topics = [ "" ]
 
 -   **<span class="timestamp-wrapper"><span class="timestamp">[2021-02-18 Πεμ]</span></span>**: Σκάψιμο, δημιουργία λεκάνης, λίπασμα 12-16-18 2κιλά και τριφύλλι απο πάνω:
 
-{<<tweet 1362344068823584770 >}}
+{{<tweet 1362344068823584770 >}}
 
 -   **older tweets**
 
