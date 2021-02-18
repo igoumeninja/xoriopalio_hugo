@@ -10,8 +10,13 @@ topics = [ "" ]
 
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/EAZAvf9QRp">pic.twitter.com/EAZAvf9QRp</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="https://twitter.com/xoriopalio/status/999173691341754368?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-   **<span class="timestamp-wrapper"><span class="timestamp">[2021-02-18 Πεμ]</span></span>**: Σκάψιμο, δημιουργία λεκάνης, λίπασμα 12-16-18 2κιλά και τριφύλλι απο πάνω:
+
+{<<tweet 1362344068823584770 >}}
+
+-   **older tweets**
+
+{{< tweet 999173691341754368 >}}
 
 Λές???
 
