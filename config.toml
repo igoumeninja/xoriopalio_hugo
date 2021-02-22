@@ -72,9 +72,23 @@ paginate = 50
     weight = 1
 ################################################
 [[menu.main]]
-    name = "Αρχείο"
+    identifier = "archive"   
+    name = "Αρχείο"                 
+    weight = 3
+
+
+[[menu.main]]
+    parent = "archive"   
+    name = "Αρχείο βάση ημερομηνία προσθήκης"
     url = "post/archive-list/"
+    weight = 1
+    
+[[menu.main]]
+    parent = "archive"   
+    name = "Αρχείο με αλφαβητική σειρά"
+    url = "post/archive_alphabetically/"   
     weight = 2
+
 
 [[menu.main]]
     name = "Λέξεις Κλειδιά"

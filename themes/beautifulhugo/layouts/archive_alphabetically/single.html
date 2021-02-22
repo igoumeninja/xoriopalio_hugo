@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div role="main" class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ with .Content }}
+      <div class="well">
+        {{.}}
+      </div>
+      {{ end }}
+
+      <div class="site-wrap">
+        <div class="post p2 p-responsive wrap" role="main">
+          <div class="measure">
+
+            {{ range where .Site.RegularPages.ByTitle "Section" "post" }}
+            <li><a href="{{ .Permalink }}">{{ .Title}}</a></li>
+            {{ end }}
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
