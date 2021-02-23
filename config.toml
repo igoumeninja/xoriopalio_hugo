@@ -11,7 +11,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "xoriopalio-gitlab-io"
-googleAnalytics = "259799573"
+googleAnalytics = "G-F9NMNPEW8J"
 paginate = 50
 
 [Params]
