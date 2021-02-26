@@ -23,8 +23,9 @@ paginate = 50
   rss = true
   comments = true
   RemovePathAccents = true
-
-#  readingTime = true
+  disableToc = "false"
+  toc = false
+  readingTime = true
   useHLJS = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 

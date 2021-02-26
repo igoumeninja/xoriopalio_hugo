@@ -1,9 +1,8 @@
 <!--   -->
 
 {{ if not .Site.IsServer }}
-    {{ template "_internal/shortcodes/twitter.html" . }}
+  {{ template "_internal/shortcodes/twitter.html" . }}
 {{ else }}
   <!-- Render the placeholder for the shortcode -->
-
 <pre>Twitter embed: {{ .Get 0 }}</pre>
 {{ end }}
