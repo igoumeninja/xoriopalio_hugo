@@ -5,9 +5,15 @@ tags = [ "κότες" ]
 topics = [ "" ]
 +++
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/zbhzFHegqH">pic.twitter.com/zbhzFHegqH</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="https://twitter.com/xoriopalio/status/995651172815003648?ref_src=twsrc%5Etfw">May 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+# Table of Contents
+
+
+
+{{< tweet 995651172815003648 >}}
+
+-   <span class="timestamp-wrapper"><span class="timestamp">[2019-04-09 Τρι] </span></span> Αυγά και στη δίπλα κότα
+-   <span class="timestamp-wrapper"><span class="timestamp">[2019-04-06 Σαβ] </span></span> Έπεσε κλώσσα η άσπρο τριαντάφυλλο με 6 αυγά
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-07-08 Κυρ] </span></span> Συνένωση των μικρών των πρώτων με τα μεγάλα, και των μικρών της Χρέπης με αυτά την Κεραμωπετρωτής
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-06-04 Δευ] </span></span> Κανένα αυγό στο κέντρο. Έσκασε μύτη η δενδρογαλιά!
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-05-23 Τετ] </span></span> Αυγά στο κέντρο
