@@ -3,7 +3,6 @@ DefaultContentLanguage = "en"
 Title = "Το Χωριό Παλιό"
 theme = "beautifulhugo"
 
-metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
@@ -17,14 +16,12 @@ paginate = 50
 [Params]
   subtitle = "και η ζωή στον κήπο"
   logo = "img/avatar-icon.png"
-  favicon = "static/favicon.ico"  # ήταν στο img folder
+  favicon = "favicon/favicon.ico"  # ήταν στο img folder
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
   comments = true
   RemovePathAccents = true
-  disableToc = "false"
-  toc = false
   readingTime = true
   useHLJS = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
