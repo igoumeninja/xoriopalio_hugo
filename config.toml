@@ -13,6 +13,10 @@ disqusShortname = "xoriopalio-gitlab-io"
 googleAnalytics = "UA-10773558-19"
 paginate = 50
 
+[markup.tableOfContents]
+startLevel = 0
+endLevel = 0
+
 [Params]
   subtitle = "και η ζωή στον κήπο"
   logo = "img/avatar-icon.png"
