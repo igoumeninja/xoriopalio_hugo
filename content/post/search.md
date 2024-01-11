@@ -5,6 +5,7 @@ tags = [ "search" ]
 topics = [ "" ]
 +++
 
+<div>
 <script>
   (function() {
     var cx = '015603912854414110900:rmrbo0adjzs';
@@ -17,5 +18,4 @@ topics = [ "" ]
   })();
 </script>
 <gcse:search></gcse:search>
-
--   google-site-verification: google7c23ff689d1a6489.html
+</div>

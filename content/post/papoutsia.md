@@ -5,9 +5,6 @@ tags = [ "παπούτσια" ]
 topics = [ "" ]
 +++
 
+-   OLANG OLYMPUS ΑΝΔΡΙΚΟ ΜΠΟΤΑΚΙ WATERPROOF 026.081
 
-# Table of Contents
-
-
-
-{{< tweet 1363430698120589312 >}}
+{{< tweet user="xorioplaio" id="1363430698120589312" >}}

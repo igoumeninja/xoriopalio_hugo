@@ -6,8 +6,5 @@ topics = [ "" ]
 +++
 
 
-# Table of Contents
-
-
 
 -   <http://www.minagric.gr/images/stories/docs/nea/GEORGPROEIDOPOIHSEIS/PATRA/2019/mikitoktona_ampeli200320.pdf>

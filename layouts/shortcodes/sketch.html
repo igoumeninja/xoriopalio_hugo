@@ -1,0 +1,8 @@
+{{ $title :=  (.Get "title") | default (.Get 0) }}
+{{ $id := (.Get "id" | default (.Get 1)) | default (replace $title " " "-" | lower) }}
+{{ $resource := .Page.Resources.GetMatch (print $id ".js") }}
+<div class="sketch">
+    <div class="sketch-container">
+        <iframe id="{{ print "p5-" $id }}" class="sketch-iframe p5-iframe" sandbox="allow-scripts allow-same-origin" srcdoc="{{ .Inner | safeHTMLAttr }}" onload="resize(this)" scrolling="no" frameborder="0"></iframe>
+    </div>
+</div>

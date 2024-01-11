@@ -5,9 +5,4 @@ tags = [ "βελέντζα" ]
 topics = [ "" ]
 +++
 
-
-# Table of Contents
-
-
-
-{{< tweet 1053356441900331008 >}}
+{{< tweet user="xoriopalio" id="1053356441900331008" >}}

@@ -2,20 +2,14 @@ baseurl = "https://xoriopalio.github.io"
 DefaultContentLanguage = "en"
 Title = "Το Χωριό Παλιό"
 theme = "beautifulhugo"
-
+#theme ="qubt"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-#pygmentsUseClassic = true
-#pygmentOptions = "linenos=inline"
 disqusShortname = "xoriopalio-gitlab-io"
 googleAnalytics = "UA-10773558-19"
-paginate = 50
-
-[markup.tableOfContents]
-startLevel = 0
-endLevel = 0
+paginate = 1
 
 [Params]
   subtitle = "και η ζωή στον κήπο"
@@ -28,26 +22,19 @@ endLevel = 0
   RemovePathAccents = true
   readingTime = true
   useHLJS = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  showRelatedPosts = true
+  gh_url = "https://api.github.com/users/igoumeninja/repos"
+  gh_user = "igoumeninja"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+[markup.goldmark.renderer]
+unsafe= true
 
-[Author]
-  name = "Aris & Katerina"
+[params.author]                
+  name = "Aris"
   website = "https://xoriopalio.github.io"
-  email = "igoumeninja@gmail.com"
-  facebook = "toxoriopalio"
-  tumblr = "bostani.tumblr.com"           
+#  email = "igoumeninja@gmail.com"
+#  facebook = "toxoriopalio"
+#  tumblr = "bostani.tumblr.com"           
 #  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "igoumeninja"
 #  gitlab = "username"
@@ -57,7 +44,6 @@ endLevel = 0
 #  xing = "username"
 #  stackoverflow = "users/XXXXXXX/username"
 #  snapchat = "username"
-  instagram = "igoumeninja"
 #  youtube = "user/username" # or channel/channelname
 #  soundcloud = "username"
 #  spotify = "username"
@@ -68,26 +54,26 @@ endLevel = 0
 #  telegram = "username"
 
 ################################################
-[[menu.main]]
-    name = "Αναζήτηση"
-    url = "post/archive/"
-    weight = 1
+#[[menu.main]]
+#    name = "Αναζήτηση"
+#    url = "post/search/"
+#    weight = 1
 ################################################
-[[menu.main]]
-    identifier = "archive"   
-    name = "Αρχείο"                 
-    weight = 3
+ #[[menu.main]]
+ #   identifier = "archive"   
+ #   name = "Αρχείο"                 
+ #   weight = 3
 
 
 [[menu.main]]
-    parent = "archive"   
-    name = "Αρχείο βάση ημερομηνία προσθήκης"
+ #   parent = "archive"   
+    name = "Αρχείο[date]"
     url = "post/archive-list/"
     weight = 1
-    
+   
 [[menu.main]]
-    parent = "archive"   
-    name = "Αρχείο με αλφαβητική σειρά"
+#    parent = "archive"   
+    name = "Αρχείο[a->b]"
     url = "post/archive_alphabetically/"   
     weight = 2
 
@@ -98,105 +84,11 @@ endLevel = 0
     weight = 3
 
 [[menu.main]]
-    identifier = "categories"
-    name = "Κατηγορίες"
+    name = "tags"
+    url = "tags/"
     weight = 4
 
 [[menu.main]]
-    parent = "categories"
-    name = "Κηπουρική"
-    url = "post/sporeio-2018"
-    weight = 1
-
-[[menu.main]]
-    parent = "categories"
-    name = "Κρασάκι"
-    url = "post/vino-gyras"
-    weight = 2
-
-[[menu.main]]
-    parent = "categories"
-    name = "Βιβλία"
-    url = "tags/βιβλία"
-    weight = 3
-################################################
-[[menu.main]]
-    identifier = "cooking"
-    url = "/post/h-mageiriki-sto-xorio-palio/"
-    name = "Μαγειρική"
+    name = "dev"
+    url = "post/hugo-tricks/"
     weight = 5
-
-[[menu.main]]
-    parent = "cooking"
-    url = "/post/h-mageiriki-sto-xorio-palio/"
-    name = "Η Μαγειρική στο Χωριό Παλιό"
-    weight = 1
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Κρέατα"
-    url = "/tags/κρέατα/"
-    weight = 2
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Ψάρια"
-    url = "/tags/ψάρια/"
-    weight = 3
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Λαχανικά"
-    url = "/tags/λαχανικά/"
-    weight = 4
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Σούπες"
-    url = "/tags/σούπες/"
-    weight = 5
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Όσπρια"
-    url = "/tags/όσπρια/"
-    weight = 6
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Ζυμαρικά"
-    url = "/tags/ζυμαρικά/"
-    weight = 7
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Πίτες"
-    url = "/tags/πίτες/"
-    weight = 8
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Σαλάτες"
-    url = "/tags/σαλάτες/"
-    weight = 9
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Αλοιφές"
-    url = "/tags/αλοιφές/"
-    weight = 10
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Σάλτσες"
-    url = "/tags/σάλτσες/"
-    weight = 11
-
-[[menu.main]]
-    parent = "cooking"
-    name = "Γλυκά"
-    url = "/tags/γλυκά/"
-    weight = 12
-
-
-

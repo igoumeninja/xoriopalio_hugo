@@ -5,12 +5,12 @@ tags = [ "σκυλιά", "μπέλλα" ]
 topics = [ "" ]
 +++
 
-<div class="org-center">
-<div class="HTML">
-<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="<https://t.co/WamkFq2Nv5>">pic.twitter.com/WamkFq2Nv5</a></p>&mdash; Xorio Palio (@xoriopalio) <a href="<https://twitter.com/xoriopalio/status/1046878581299826688?ref_src=twsrc%5Etfw>">October 1, 2018</a></blockquote> <script async src="<https://platform.twitter.com/widgets.js>" charset="utf-8"></script>
 
-</div>
-</div>
+# Table of Contents
+
+
+
+{{< tweet user="xoriopalio" id="1046878581299826688" >}}
 
 Όμορφη, επιδέξια, υπάκουη και πάρα πολύ γρήγορη η Μπέλλα. Στη καθημερινές βόλτες στο μποστάνι προλαβαίνει και κάνει μιοα επιθεώρηση της περιοχής. Πολύ ευχαριστήθηκε με τις νέες συγκάτοικους την Μέρι και την Νίτσα και απολαμβάνει την ραστώνη του καλοκαιριού. Μεγάλοι δάσκαλοι της ζωής τα ζώα. Ο συγχρονος άνθρωπος, έχοντας απομακρυνθεί απο το φυσικό του περιβάλλον, ψάχνει να βρεί ένα νόημα στη ζωή. Βιάζεται, σκέφτεται πολύ, αγχώνεται, κάνει όνειρα και χάνει την στιγμή. Δεν μπορεί να κάτσει σε έναν ίσκιο και μην κάνει τίποτε. Κι αν το κάνει, θα το εντάξει σε πλαίσιο τύπου κάνω διαλογισμό. Χαλάρα ρε φιλαράκι. Σκυλίσια ζωή.
 

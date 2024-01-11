@@ -1,17 +1,15 @@
 +++
-title = "Κότες - Ημερολόγιο"
+title = "Κότες - Ημερολόγιo"
 date = "2021-03-01"
 tags = [ "κότες" ]
 topics = [ "" ]
 +++
 
+{{< tweet user="xoriopalio" id="995651172815003648" >}}
 
-# Table of Contents
-
-
-
-{{< tweet 995651172815003648 >}}
-
+-   <span class="timestamp-wrapper"><span class="timestamp">[2023-05-20 Σαβ] </span></span> Δϋο ακόμη κλώσσες
+-   <span class="timestamp-wrapper"><span class="timestamp">[2023-05-08 Δευ] </span></span> Κλώσσα το Άσπρο Τριαντάφυλλο με 11 αυγά από Σταματία
+-   <span class="timestamp-wrapper"><span class="timestamp">[2023-05-08 Δευ] </span></span> Βγήκε κλώσσα με 4 πουλάκια από αυγά του ΠαυλοΜπέζα
 -   <span class="timestamp-wrapper"><span class="timestamp">[2019-04-09 Τρι] </span></span> Αυγά και στη δίπλα κότα
 -   <span class="timestamp-wrapper"><span class="timestamp">[2019-04-06 Σαβ] </span></span> Έπεσε κλώσσα η άσπρο τριαντάφυλλο με 6 αυγά
 -   <span class="timestamp-wrapper"><span class="timestamp">[2018-07-08 Κυρ] </span></span> Συνένωση των μικρών των πρώτων με τα μεγάλα, και των μικρών της Χρέπης με αυτά την Κεραμωπετρωτής

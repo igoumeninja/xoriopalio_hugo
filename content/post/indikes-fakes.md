@@ -1,14 +1,11 @@
 +++
 title = "Iνδικές φακές"
-date = "2017-10-04"
+date = "2024-01-08"
 tags = [ "μαγειρική", "όσπρια" ]
 topics = [ "" ]
 +++
 
-
-# Table of Contents
-
-
+DATE: <span class="timestamp-wrapper"><span class="timestamp">[2017-10-04 Τετ 11:27]</span></span>
 
 -   250 γρ. φακές κόκκινες (αλλά το φαγητό γίνεται και με κανονικές ψιλές)
 -   2 ώριμες ντομάτες, ψιλοκομμένες
@@ -23,3 +20,5 @@ topics = [ "" ]
 -   5 κ.σ. ε.π. ελαιόλαδο
 -   αλάτι, φρεσκοτριμμένο πιπέρι
     -   <http://www.athinorama.gr/umami/food/recipes/?id=2003848>
+
+-   <https://www.vegrecipesofindia.com/dhaba-dal-dal-recipe-style-from-the-dhaba/>

@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        {{ .Content }}
+      </article>
+      <hr>
+      <b>created at</b>: {{ dateFormat "January 2, 2006" .Date }}
+      <br>
+      <b>tags</b>: [
+      {{ if .Params.tags }}
+      <span class="post-meta">
+        {{ range .Params.tags }}
+        #<a href="{{ $.Site.LanguagePrefix | absURL }}/tags/{{ . | urlize }}/">{{ . }}</a>&nbsp;
+        {{ end }}
+      </span>
+      {{ end }}
+      ]
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (and .Site.Params.comments (ne .Type "page"))) }}
+        {{ if .Site.DisqusShortname }}
+          <div class="disqus-comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
+        {{ if .Site.Params.staticman }}
+          <div class="staticman-comments">
+            {{ partial "staticman-comments.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}
